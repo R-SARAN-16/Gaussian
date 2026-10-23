@@ -14,12 +14,11 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. Print the solution vector X.
 
 ## Program:
-```
-/*
+```py
+'''
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: R SARAN
 RegisterNumber: 26004406
-*/'''
 '''
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
